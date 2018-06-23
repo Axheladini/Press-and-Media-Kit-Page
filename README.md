@@ -7,8 +7,9 @@ Press & Media Kit page plugin helps you submit and show press releases, Resource
 All you need to do is insert your company details, Media Kits, Articles, Press Releases & Featured Blog posts from WordPress Dashboard and then just add the short code <b>[press_page]</b> to a page or post and all these details will render to the page or post. 
 </p>
 <p>Press page & Media Kit Plugin includes:</p>
+<br>
+<b>Company details</b>
 <ul>
-<li><b>Company details</b></li>
 <li>Domain</li>
 <li>Phone</li>
 <li>Email</li>
