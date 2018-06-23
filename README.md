@@ -9,6 +9,7 @@ All you need to do is insert your company details, Media Kits, Articles, Press R
 <p>Press page & Media Kit Plugin includes:</p>
 <br>
 <b>Company details</b>
+<br>
 <ul>
 <li>Domain</li>
 <li>Phone</li>
