@@ -1,0 +1,36 @@
+.wps_content
+{
+	width: 70% !important;
+	float: left !important;
+	margin-left: 2% !important;
+	margin-top: 2% !important;
+	background: #f9f9f9 !important;
+	padding: 25px !important;
+}
+.wps_content input[type=text], .wps_content input[type=date], .wps_content input[type=email], .custom_post_content select, .custom_post_content input[type=text]
+{
+	width: 250px;
+	height: 40px !important;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.wps_content .address_input {width: 75% !important;}
+.file_box
+{
+	border: 3px solid #e3e1e1 !important;
+	width: 30% !important;
+	padding: 10px !important;
+}
+.file_box img
+{
+	width: 100% !important;
+}
+
+#wps_press_page_releases_file, #wps_press_page_releases_type, #wps_press_page_releases_link_meta,
+#wps_press_page_resource_type_meta{display: block;}
+#option_page_name { color: #2e2f2f !important; font-size: 25px !important; font-weight: 400 !important}
+.wps_options_page h2 { color: #707070 !important; font-size: 20px !important;  font-weight: 300 !important;}
+.wps_options_page textarea {height: 180px !important;}
+.wps_options_page .button-primary { margin-top: 15px !important; }
+.wps_options_page .form-table th, .wps_options_page .form-table td{border-right: 1px solid #ececec !important; margin-bottom: 5px !important; border-bottom: 1px solid #ececec; line-height: 30px; font-size: 16px;  color: #707070 !important; font-weight: 300 !important;}
+.wps_options_page .form-table{margin-top: 25px !important; }
