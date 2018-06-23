@@ -8,7 +8,7 @@ All you need to do is insert your company details, Media Kits, Articles, Press R
 </p>
 <p>Press page & Media Kit Plugin includes:</p>
 
-    <b>Company details</b>
+<b>Company details</b>
 
 <ul>
 <li>Domain</li>
