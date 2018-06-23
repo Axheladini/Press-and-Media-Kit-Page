@@ -1,7 +1,7 @@
 <b> Media Kit & Press Page - Wordpress plugin </b>
 
 <p>
-Press & Media Kit page plugin helps you submit and show press releases, Resources / Media Kits (images, logo's, documents, vectors, videos), Articles, featured blog posts all together in structured, responsive and well formatted one page inside your WordPress page.
+Press & Media Kit Press is a WordPress plugin that helps you submit and show press releases, Resources / Media Kits (images, logo's, documents, vectors, videos), Articles, featured blog posts all together in structured, responsive and well formatted one page inside your WordPress page.
 </p>
 <p>
 All you need to do is insert your company details, Media Kits, Articles, Press Releases & Featured Blog posts from WordPress Dashboard and then just add the short code <b>[press_page]</b> to a page or post and all these details will render to the page or post. 
