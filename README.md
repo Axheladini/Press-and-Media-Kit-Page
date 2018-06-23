@@ -11,6 +11,7 @@ All you need to do is insert your company details, Media Kits, Articles, Press R
 <li><b>Company details</b></li>
 <li>Domain</li>
 <li>Phone</li>
+<li>Email</li>
 <li>Year founded</li>
 <li>Number of employees</li>
 <li>Full Address</li>
@@ -29,10 +30,10 @@ All you need to do is insert your company details, Media Kits, Articles, Press R
 
 <p><b>Installation</b></p>
 
-<p>1. Upload the entire facebook-like-box folder to your wp-content/plugins/ directory.</p>
-<p>2. Activate the plugin through the 'Plugins' menu in WordPress.</p>
+<p>1. Upload the entire plugin directory to your wp-content/plugins/ directory.</p>
+<p>2. Activate the plugiin</p>
 <p>3. Add your Artilces, Media Kits (Resources), Press Releases .. </p>
-<p>4. Create a simpla wordpress page and add this shortcode:<b>[press_page]</b></p>
+<p>4. Create a simpla wordpress page and add this shortcode:<b> [press_page] </b></p>
 
 <p>= 1.0 = </p> 
 <p>* Initial release.</p>
