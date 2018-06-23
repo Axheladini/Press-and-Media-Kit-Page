@@ -9,7 +9,7 @@ All you need to do is insert your company details, Media Kits, Articles, Press R
 <p>Press page & Media Kit Plugin includes:</p>
 <br>
 <b>Company details</b>
-<br>
+<br><br>
 <ul>
 <li>Domain</li>
 <li>Phone</li>
@@ -24,6 +24,9 @@ All you need to do is insert your company details, Media Kits, Articles, Press R
 <li><b>Articles</b></li>
 <li><b>Press Releases </b></li>
 <li><b>Featured Blog posts </b></li>
+  
+ <br>
+  
 <p><b>Company details - </b>Stoked Press page & Media Kit plugin comes with a special menu on the main left part menu of the dashboard. First menu item “Press Page Options” shows a page where you can insert above mentioned details for your company (brand).  This brief description notifies your customers (visitors of your website) with essential details of your company(brand), it is very good and interesting section through which your customers (visitors of your website) gain first impressions for your company (brand). </p>
 <p><b>Media Kit’s / Resources – </b>Second and third menu items are related to resources (media kits). When you click on “All Resources” 	you see all resources you have added previously and when you click “New Resource” you will be able to add New Resource (Media Kit). </p>
 <p>A Resource or so called Media Kit actually is a custom post type with default title also you are able to select Resource type (document, logo, image, vector, video & other) and then upload the file based on the type you have selected. When you select video as a Resource type than you need to paste the embedded video code to text editor. </p>
